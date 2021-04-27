@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm am AlisYann!
 
+...
+
+i'm a Junior Web & Mobile Developer in JavaScript, ReactJs/ Material-Ui, NodeJs, MySql. I also worked on differents languages like Python with Django and C# with Unity.
+
 <!--
 **alisyann/alisyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
