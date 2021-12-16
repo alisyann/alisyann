@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm am AlisYann!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AlisYann!
 
 ...
 
@@ -7,7 +7,7 @@
 
 ...
 
-i'm a Junior Web & Mobile Developer in JavaScript, ReactJs/ Material-Ui, NodeJs, MySql. I also worked on differents Programming languages like Python with Django and MongoDb and C# with Unity.
+i'm a Full Stack Developer based in Toulouse. I have mainly worked on front End JavaScript/ React, backend NodeJs/Python (Flask) and MySql/ MongoDB for databases part.
 
 ...
 
